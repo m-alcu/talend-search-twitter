@@ -1,0 +1,33 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore">
+  <expression:EMFExpression id="null=>" expression="(long)globalMap.get(&quot;row6.id&quot;)">
+    <variables name="row2.max_id" value="null" talendType="id_Long" nullable="true"/>
+    <variables name="row2.query_value" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row3.seq" value="null" talendType="id_Integer" nullable="true"/>
+    <variables name="Var.var1" value="null" talendType="id_String"/>
+  </expression:EMFExpression>
+  <expression:EMFExpression id="null=>Var=>var1" expression="(Integer)globalMap.get(&quot;row6.Id&quot;)">
+    <variables name="row1.created_at" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row1.from_user" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row1.from_user_id" value="null" talendType="id_Long" nullable="true"/>
+    <variables name="row1.from_user_id_str" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row1.from_user_name" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row1.id" value="null" talendType="id_Long" nullable="true"/>
+    <variables name="row1.id_str" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row1.iso_language_code" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row1.profile_image_url" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row1.source" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row1.text" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row1.to_user" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row1.to_user_id" value="null" talendType="id_Long" nullable="true"/>
+    <variables name="row1.to_user_id_str" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row1.to_user_name" value="null" talendType="id_String" nullable="true"/>
+    <variables name="Var.var1" value="null" talendType="id_String"/>
+  </expression:EMFExpression>
+  <expression:EMFExpression id="null=>row3=>seq" expression="row3.seq">
+    <variables name="SalidaTweet.search_id" value="0" talendType="id_Integer"/>
+    <variables name="SalidaTweet.max_id" value="null" talendType="id_Long" nullable="true"/>
+    <variables name="SalidaTweet.query_value" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row3.seq" value="null" talendType="id_Integer" nullable="true"/>
+  </expression:EMFExpression>
+</xmi:XMI>

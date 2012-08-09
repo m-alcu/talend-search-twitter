@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_1v3qQOGfEeGbw6jydp1trw" comment="connectionComment" label="connectionLabel" dataPackage="_1v3qQeGfEeGbw6jydp1trw"/>
+  <TalendMetadata:GenericPackage xmi:id="_1v3qQeGfEeGbw6jydp1trw" dataManager="_1v3qQOGfEeGbw6jydp1trw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_1v3qQuGfEeGbw6jydp1trw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1v3qQ-GfEeGbw6jydp1trw" name="Body" id="16993" label="Body" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_1v3qROGfEeGbw6jydp1trw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1v3qReGfEeGbw6jydp1trw" name="ERROR_CODE" id="16994" label="ERROR_CODE" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_1v3qRuGfEeGbw6jydp1trw" body=""/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

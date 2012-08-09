@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_0fhu8NtYEeGgpYydMr-Wwg" comment="connectionComment" label="connectionLabel" dataPackage="_0fhu8dtYEeGgpYydMr-Wwg" mappingTypeUsed="true" mappingTypeId="mysql_id"/>
+  <TalendMetadata:GenericPackage xmi:id="_0fhu8dtYEeGgpYydMr-Wwg" dataManager="_0fhu8NtYEeGgpYydMr-Wwg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_0fhu8ttYEeGgpYydMr-Wwg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0fhu89tYEeGgpYydMr-Wwg" name="id" id="663" label="id" sourceType="BIGINT" talendType="id_String">
+        <initialValue xmi:id="_0fhu9NtYEeGgpYydMr-Wwg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0fhu9dtYEeGgpYydMr-Wwg" name="provincia" id="664" label="provincia" sourceType="INT" talendType="id_String">
+        <initialValue xmi:id="_0fhu9ttYEeGgpYydMr-Wwg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0fhu99tYEeGgpYydMr-Wwg" name="municipio" id="665" label="municipio" length="255" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_0fhu-NtYEeGgpYydMr-Wwg"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

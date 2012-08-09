@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_rQWRsOB-EeGUl5-buGRY_g" comment="connectionComment" label="connectionLabel" dataPackage="_rQWRseB-EeGUl5-buGRY_g"/>
+  <TalendMetadata:GenericPackage xmi:id="_rQWRseB-EeGUl5-buGRY_g" dataManager="_rQWRsOB-EeGUl5-buGRY_g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_rQWRsuB-EeGUl5-buGRY_g" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW4wOB-EeGUl5-buGRY_g" name="search_id" id="57742" label="search_id" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_rQW4weB-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW4wuB-EeGUl5-buGRY_g" name="created_at" id="52773" label="created_at" sourceType="" talendType="id_Date" pattern="&quot;EEE,yyyy-MM-dd HH:mm:ss&quot;">
+        <initialValue xmi:id="_rQW4w-B-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW4xOB-EeGUl5-buGRY_g" name="from_user" id="52774" label="from_user" length="20" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_rQW4xeB-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW4xuB-EeGUl5-buGRY_g" name="from_user_id" id="52775" label="from_user_id" sourceType="" talendType="id_Long">
+        <initialValue xmi:id="_rQW4x-B-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW4yOB-EeGUl5-buGRY_g" name="from_user_id_str" id="52776" label="from_user_id_str" length="20" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_rQW4yeB-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW4yuB-EeGUl5-buGRY_g" name="from_user_name" id="52777" label="from_user_name" length="20" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_rQW4y-B-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW4zOB-EeGUl5-buGRY_g" name="id" id="52778" label="id" sourceType="" talendType="id_Long">
+        <initialValue xmi:id="_rQW4zeB-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW4zuB-EeGUl5-buGRY_g" name="id_str" id="52779" label="id_str" length="20" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_rQW4z-B-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW40OB-EeGUl5-buGRY_g" name="iso_language_code" id="52780" label="iso_language_code" length="2" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_rQW40eB-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW40uB-EeGUl5-buGRY_g" name="profile_image_url" id="52781" label="profile_image_url" length="2000" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_rQW40-B-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW41OB-EeGUl5-buGRY_g" name="source" id="52782" label="source" length="200" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_rQW41eB-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW41uB-EeGUl5-buGRY_g" name="text" id="52783" label="text" length="2000" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_rQW41-B-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW42OB-EeGUl5-buGRY_g" name="to_user" id="52784" label="to_user" length="20" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_rQW42eB-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQW42uB-EeGUl5-buGRY_g" name="to_user_id" id="52785" label="to_user_id" length="20" sourceType="" talendType="id_Long">
+        <initialValue xmi:id="_rQW42-B-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQXf0OB-EeGUl5-buGRY_g" name="to_user_id_str" id="52786" label="to_user_id_str" length="20" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_rQXf0eB-EeGUl5-buGRY_g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rQXf0uB-EeGUl5-buGRY_g" name="to_user_name" id="52787" label="to_user_name" length="20" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_rQXf0-B-EeGUl5-buGRY_g"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

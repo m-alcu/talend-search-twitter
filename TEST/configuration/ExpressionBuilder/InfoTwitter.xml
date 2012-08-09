@@ -1,0 +1,18 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="null=>tMySqlOutput_3=>text" expression="StringHandling.DOWNCASE(row2.text)  ">
+  <variables name="row2.created_at" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.from_user" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.from_user_id" value="null" talendType="id_Long" nullable="true"/>
+  <variables name="row2.from_user_id_str" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.from_user_name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.id" value="null" talendType="id_Long" nullable="true"/>
+  <variables name="row2.id_str" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.iso_language_code" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.profile_image_url" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.source" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.text" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.to_user" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.to_user_id" value="null" talendType="id_Long" nullable="true"/>
+  <variables name="row2.to_user_id_str" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.to_user_name" value="null" talendType="id_String" nullable="true"/>
+</expression:EMFExpression>
